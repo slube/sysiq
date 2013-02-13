@@ -1,7 +1,0 @@
-<?
-
-phpinfo();
-
-echo 'conflict here?';
-
-?>
